@@ -1,0 +1,85 @@
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:7
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:8
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:8
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [8192]htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:150
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "original_file_name" - C:\xampp\htdocs\mywebsite\liveserver\index.php:152
+Errors: [8192]pathinfo(): Passing null to parameter #1 ($path) of type string is deprecated - C:\xampp\htdocs\mywebsite\liveserver\index.php:154
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:8
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:8
+Errors: [2]Undefined array key "user_id" - C:\xampp\htdocs\mywebsite\liveserver\index.php:8

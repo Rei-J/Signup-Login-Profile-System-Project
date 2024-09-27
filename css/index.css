@@ -1,0 +1,222 @@
+main{
+    background-color: var(--gray);
+    width: 100%;
+    height: calc(100vh - 6rem);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 3rem;
+    transition: all ease-in-out 350ms;
+    z-index: 100;
+    opacity: 1;
+}
+main h3{
+    color: var(--purple);
+}
+main form{
+    width: 25rem;
+    height: 25rem;
+    line-height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: 2px solid var(--purple);
+}
+main form label{
+    font-size: 1.4rem;
+    font-weight: bold;
+    font-family: 'Roboto Slab';
+    color: var(--purple);
+}
+main form input{
+    width: 15rem;
+    height: 2.5rem;
+    background-color: var(--white);
+    color: var(--purple);
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: 1px solid var(--purple);
+    border-radius: 0.5rem;
+}
+main form input:focus{
+    border: 2px solid var(--purple);
+}
+main form select{
+    width: 5rem;
+    height: 2rem;
+    margin: 1rem 0;
+    background-color: var(--white);
+    color: var(--purple);
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid var(--purple);
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+main button{
+    width: 7rem;
+    height: 3rem;
+    background-color: var(--purple);
+    color: var(--white);
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+main button:hover{
+    width: 7.2rem;
+    font-size: 1.3rem;
+    transform: scaleY(0.9);
+}
+.result{
+    width: 7rem;
+    height: 3rem;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--white);
+    color: var(--purple);
+    font-size: 1.4rem;
+    font-weight: bold;
+    border-radius: 1rem;
+}
+.upload_img{
+    width: 100%;
+    background-color: var(--gray);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 1;
+}
+.upload_img h3{
+    color: var(--purple);
+    margin: 0.5rem;
+}
+.upload_img form{
+    width: 25rem;
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid var(--purple);
+    border-radius: 1rem;
+}
+.upload_error{
+    color: var(--white);
+    margin-top: 2rem;
+    width: 30rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: initial;
+    font-size: 2rem;
+
+}
+
+.uplfile{
+    margin-bottom: 1rem;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: var(--purple);
+}
+.uplimg{
+    width: 10rem;
+    height: 5rem;
+    background-color: var(--purple);
+    color: var(--white);
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+.uplimg:hover{
+    width: 10.2rem;
+    font-size: 1.5rem;
+    transform: scaleY(0.9);
+}
+
+.title{
+    background-color: var(--gray);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 2rem 0 0;
+    margin-bottom: -2rem;
+    opacity: 1;
+}
+.title h3{
+    color: var(--purple);
+}
+.display_img{
+    max-width: 100%;   
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    background-color: var(--gray);
+    opacity: 1;
+}
+.img{
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border: 2px solid var(--purple);
+}
+
+.img form{
+    width: 100%;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.delete_img{
+    background-color: var(--purple);
+    color: var(--white);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.delete_img:hover{
+    background-color: var(--white);
+    color: var(--purple);
+    font-weight: bold;
+}
+
+
+/* Mobile version */
+/* < 600px(max), 601(min), 768px(min), 992px(min), 1200px(min) */
+
+@media only screen and (max-width: 600px){
+ 
+}
+
+@media only screen and (min-width: 601px) and (max-width: 767px){
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    
+}
